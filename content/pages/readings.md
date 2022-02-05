@@ -4,14 +4,143 @@ title: Readings
 uid: 13761c14-cd54-c879-7760-049ea27fa337
 ---
 
-| TOPICS | READINGS |
-| --- | --- |
-| Generalized method of moments |  {{< br >}}{{< br >}} Newey, Generalized Method of Moments ([PDF]({{< baseurl >}}/resources/ngmm07)) {{< br >}}{{< br >}} Hansen, L. P. "Large Sample Properties of Generalized Method of Moments Estimators." _Econometrica_ 50 (1982): 1029-1054. {{< br >}}{{< br >}} Hansen, L. P., and K. J. Singleton. "Generalized Instrumental Variables Estimation of Nonlinear Rational Expectations Models." _Econometrica_ 50 (1982): 1269-1286. {{< br >}}{{< br >}} Hansen, L. P., J. Heaton, and A. Yaron. "Finite-Sample Properties of Some Alternative GMM Estimators." _Journal of Business and Economic Statistics_ 14 (1996): 262-280. {{< br >}}{{< br >}} Newey, W. K., and D. L. McFadden. "Large Sample Estimation and Hypothesis Testing." In _Handbook of Econometrics_. Vol. 4. Edited by R. F. Engle and D. McFadden. Amsterdam, The Netherlands: Elsevier Science, 1999, pp. 2113-2245. ISBN: 9780444887665. {{< br >}}{{< br >}} Newey, W. K., and R. J. Smith. "Higher-Order Properties of GMM and Generalized Empirical Likelihood Estimators." _Econometrica_ 72 (2004): 219-255. {{< br >}}{{< br >}}  |
-| Nonparametric estimation |  {{< br >}}{{< br >}} Newey, Nonparametric and Semiparametric Estimation ([PDF]({{< baseurl >}}/resources/nonsemi_est_edit)) {{< br >}}{{< br >}} Härdle, W., and O. Linton. "Applied Nonparametric Methods." Chapter 38 in _Handbook of Econometrics_. Vol. 4. Edited by R. F. Engle and D. McFadden. Amsterdam, The Netherlands: Elsevier Science, 1994, pp. 2297-2339. ISBN: 9780444887665. {{< br >}}{{< br >}} Hausman, J. A., and W. K. Newey. "Nonparametric Estimation of Exact Consumers Surplus and Deadweight Loss." _Econometrica_ 63, no. 6 (November 1995): 1445-1476. {{< br >}}{{< br >}} Newey, Locally Linear Regression ([PDF]({{< baseurl >}}/resources/local_lin_reg_ocr)) {{< br >}}{{< br >}}  |
-| Semiparametric estimation |  {{< br >}}{{< br >}} Newey, Nonparametric and Semiparametric Estimation ([PDF]({{< baseurl >}}/resources/nonsemi_est_edit)) {{< br >}}{{< br >}} Powell, J. "Estimation of Semiparametric Models." Chapter 41 in _Handbook of Econometrics_. Vol. 4. Edited by R. F. Engle and D. McFadden. Amsterdam, The Netherlands: Elsevier Science, 1994, pp. 2444-2521. ISBN: 9780444887665. {{< br >}}{{< br >}}  |
-| Treatment effects |  {{< br >}}{{< br >}} Newey, Treatment Effects ([PDF]({{< baseurl >}}/resources/treatment_effect)) {{< br >}}{{< br >}} Imbens, G., and J. Angrist. "Identification and Estimation of Local Average Treatment Effects." _Econometrica_ 62, no. 2 (March 1994): 467-475. {{< br >}}{{< br >}} Angrist, J., and A. Krueger. "Does Compulsory School Attendance Affect Schooling and Earnings?" _The Quarterly Journal of Economics_ 106, no. 4 (November 1991): 979-1014. {{< br >}}{{< br >}} Angrist, J., G. Imbens, and D. Rubin. "Identification of Causal Effects Using Instrumental Variables." _Journal of the American Statistical Association_ 91, no. 434 (June 1996): 444-455. {{< br >}}{{< br >}} Dehejia, R., and S. Wahba. "Causal Effects in Nonexperimental Studies: Reevaluating the Evaluation of Training Programs." _Journal of the American Statistical Association_ 94, no. 448 (December 1999): 1053-1062. {{< br >}}{{< br >}}  |
-| Nonlinear models in panel data |  {{< br >}}{{< br >}} Newey, Nonlinear Models in Panel Data ([PDF]({{< baseurl >}}/resources/panel_data)) {{< br >}}{{< br >}} Chamberlain, G. "Panel Data." Chapter 22 in _Handbook of Econometrics_. Vol. 2. Edited by Z. Griliches and M. D. Intriligator. Amsterdam, The Netherlands: Elsevier Science, 1984, pp. 1248-1318. ISBN: 9780444861863. {{< br >}}{{< br >}} Lancaster, T. "The Incidental Parameter Problem Since 1948." _Journal of Econometrics_ 95 (2000): 391-413. {{< br >}}{{< br >}} Arellano, M., and B. Honoré. "Panel Data Models: Some Recent Developments." Chapter 53 in _Handbook of Econometrics_. Vol. 5. Edited by J. J. Heckman and E. Leamer. Amsterdam, The Netherlands: Elsevier Science, 2001, pp. 3231-3296. ISBN: 9780444823403. {{< br >}}{{< br >}} Hahn, J., and W. Newey. "Jackknife and Analytical Bias Reduction for Nonlinear Panel Models." _Econometrica_ 72, no. 4 (July 2004): 1295-1319. {{< br >}}{{< br >}}  |
-| Demand estimation with imperfect competition |  {{< br >}}{{< br >}} Berry, S., J. Levinsohn, and A. Pakes. "Automobile Prices in Market Equilibrium." _Econometrica_ 63, no. 4 (July 1995): 841-890. {{< br >}}{{< br >}} Nevo, A. "Measuring Market Power in the Ready-to-Eat Cereal Industry." _Econometrica_ 69, no. 2 (March 2001): 307-342. {{< br >}}{{< br >}} Hausman, J. A., and G. K. Leonard. "The Competitive Effects of a New Product Introduction: A Case Study." _The Journal of Industrial Economics_ L, no. 3 (September 2002): 237-263. {{< br >}}{{< br >}} Ackerberg, D., C. L. Benkard, S. Berry, and A. Pakes. "Econometric Tools for Analyzing Market Outcomes." Forthcoming in _Handbook of Econometrics_. Edited by J. J. Heckman. pp. 1-127. {{< br >}}{{< br >}} Haile, P. A., and E. Tamer. "Inference with an Incomplete Model of English Auctions." _Journal of Political Economy_ 111, no. 1 (2003): 1-51. {{< br >}}{{< br >}} Imbens, G. W., and W. Newey. "Identification and Estimation of Triangular Simultaneous Equations Models Without Additivity." mimeograph, October 2006, pp. 1-37. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Generalized method of moments
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Newey, Generalized Method of Moments ([PDF]({{< baseurl >}}/resources/ngmm07))
+
+Hansen, L. P. "Large Sample Properties of Generalized Method of Moments Estimators." _Econometrica_ 50 (1982): 1029-1054.
+
+Hansen, L. P., and K. J. Singleton. "Generalized Instrumental Variables Estimation of Nonlinear Rational Expectations Models." _Econometrica_ 50 (1982): 1269-1286.
+
+Hansen, L. P., J. Heaton, and A. Yaron. "Finite-Sample Properties of Some Alternative GMM Estimators." _Journal of Business and Economic Statistics_ 14 (1996): 262-280.
+
+Newey, W. K., and D. L. McFadden. "Large Sample Estimation and Hypothesis Testing." In _Handbook of Econometrics_. Vol. 4. Edited by R. F. Engle and D. McFadden. Amsterdam, The Netherlands: Elsevier Science, 1999, pp. 2113-2245. ISBN: 9780444887665.
+
+Newey, W. K., and R. J. Smith. "Higher-Order Properties of GMM and Generalized Empirical Likelihood Estimators." _Econometrica_ 72 (2004): 219-255.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nonparametric estimation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Newey, Nonparametric and Semiparametric Estimation ([PDF]({{< baseurl >}}/resources/nonsemi_est_edit))
+
+Härdle, W., and O. Linton. "Applied Nonparametric Methods." Chapter 38 in _Handbook of Econometrics_. Vol. 4. Edited by R. F. Engle and D. McFadden. Amsterdam, The Netherlands: Elsevier Science, 1994, pp. 2297-2339. ISBN: 9780444887665.
+
+Hausman, J. A., and W. K. Newey. "Nonparametric Estimation of Exact Consumers Surplus and Deadweight Loss." _Econometrica_ 63, no. 6 (November 1995): 1445-1476.
+
+Newey, Locally Linear Regression ([PDF]({{< baseurl >}}/resources/local_lin_reg_ocr))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Semiparametric estimation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Newey, Nonparametric and Semiparametric Estimation ([PDF]({{< baseurl >}}/resources/nonsemi_est_edit))
+
+Powell, J. "Estimation of Semiparametric Models." Chapter 41 in _Handbook of Econometrics_. Vol. 4. Edited by R. F. Engle and D. McFadden. Amsterdam, The Netherlands: Elsevier Science, 1994, pp. 2444-2521. ISBN: 9780444887665.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Treatment effects
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Newey, Treatment Effects ([PDF]({{< baseurl >}}/resources/treatment_effect))
+
+Imbens, G., and J. Angrist. "Identification and Estimation of Local Average Treatment Effects." _Econometrica_ 62, no. 2 (March 1994): 467-475.
+
+Angrist, J., and A. Krueger. "Does Compulsory School Attendance Affect Schooling and Earnings?" _The Quarterly Journal of Economics_ 106, no. 4 (November 1991): 979-1014.
+
+Angrist, J., G. Imbens, and D. Rubin. "Identification of Causal Effects Using Instrumental Variables." _Journal of the American Statistical Association_ 91, no. 434 (June 1996): 444-455.
+
+Dehejia, R., and S. Wahba. "Causal Effects in Nonexperimental Studies: Reevaluating the Evaluation of Training Programs." _Journal of the American Statistical Association_ 94, no. 448 (December 1999): 1053-1062.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nonlinear models in panel data
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Newey, Nonlinear Models in Panel Data ([PDF]({{< baseurl >}}/resources/panel_data))
+
+Chamberlain, G. "Panel Data." Chapter 22 in _Handbook of Econometrics_. Vol. 2. Edited by Z. Griliches and M. D. Intriligator. Amsterdam, The Netherlands: Elsevier Science, 1984, pp. 1248-1318. ISBN: 9780444861863.
+
+Lancaster, T. "The Incidental Parameter Problem Since 1948." _Journal of Econometrics_ 95 (2000): 391-413.
+
+Arellano, M., and B. Honoré. "Panel Data Models: Some Recent Developments." Chapter 53 in _Handbook of Econometrics_. Vol. 5. Edited by J. J. Heckman and E. Leamer. Amsterdam, The Netherlands: Elsevier Science, 2001, pp. 3231-3296. ISBN: 9780444823403.
+
+Hahn, J., and W. Newey. "Jackknife and Analytical Bias Reduction for Nonlinear Panel Models." _Econometrica_ 72, no. 4 (July 2004): 1295-1319.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Demand estimation with imperfect competition
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Berry, S., J. Levinsohn, and A. Pakes. "Automobile Prices in Market Equilibrium." _Econometrica_ 63, no. 4 (July 1995): 841-890.
+
+Nevo, A. "Measuring Market Power in the Ready-to-Eat Cereal Industry." _Econometrica_ 69, no. 2 (March 2001): 307-342.
+
+Hausman, J. A., and G. K. Leonard. "The Competitive Effects of a New Product Introduction: A Case Study." _The Journal of Industrial Economics_ L, no. 3 (September 2002): 237-263.
+
+Ackerberg, D., C. L. Benkard, S. Berry, and A. Pakes. "Econometric Tools for Analyzing Market Outcomes." Forthcoming in _Handbook of Econometrics_. Edited by J. J. Heckman. pp. 1-127.
+
+Haile, P. A., and E. Tamer. "Inference with an Incomplete Model of English Auctions." _Journal of Political Economy_ 111, no. 1 (2003): 1-51.
+
+Imbens, G. W., and W. Newey. "Identification and Estimation of Triangular Simultaneous Equations Models Without Additivity." mimeograph, October 2006, pp. 1-37.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Further Reading
 ---------------
